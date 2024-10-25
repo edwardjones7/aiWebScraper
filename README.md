@@ -1,2 +1,0 @@
-# aiWebScraper
-AI Web Scraper
